@@ -31,3 +31,5 @@ var funkyFunction = function() {
 var funkster = funkyFunction();
 
 var theFunk = funkster();
+
+// var theFunk = funkyFunction()(); solution
